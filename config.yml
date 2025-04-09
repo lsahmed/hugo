@@ -1,4 +1,4 @@
-baseURL: "https://ethantimes.vercel.app"
+baseURL: "https://blog.lsahmed.tech"
 title: Ethan Times
 pagination.pagerSize: 5
 theme: PaperMod

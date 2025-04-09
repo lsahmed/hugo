@@ -8,7 +8,6 @@ author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-
 draft: false
 
 hidemeta: false
@@ -34,7 +33,7 @@ cover:
     hidden: true # only hide on current single page
 editPost:
     URL: "https://github.com/lsahmed/hugo/tree/main/content/"
-    Text: "Suggest Changes" # edit text
+    Text: "Suggest Changes" # edit text 
     appendFilePath: true # to append file path to Edit link
 ---
 
